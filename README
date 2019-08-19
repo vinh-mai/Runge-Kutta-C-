@@ -1,2 +1,7 @@
-Fifth-order fixed-step Runge-Kutta routine for system of ODEs with initial conditions in C++.
+#Fifth-order fixed-step Runge-Kutta routine in C++
 
+Fifth-order fixed-step Runge-Kutta routine for system of ODEs with initial conditions in C++ was developed. The project includes
+ 
+ * A model.h directive file;
+ 
+ * A file of the routine.
