@@ -2,6 +2,6 @@
 
 Fifth-order fixed-step Runge-Kutta routine for system of ODEs with initial conditions in C++ was developed. The project includes
  
- * A model.h directive file;
+ * a model.h directive file, and
  
- * A file of the routine.
+ * a file of the routine.
