@@ -4,4 +4,4 @@ Fifth-order fixed-step Runge-Kutta routine for system of ODEs with initial condi
  
  * a model.h directive file, and
  
- * a file of the routine.
+ * a main.cpp file of the routine.
